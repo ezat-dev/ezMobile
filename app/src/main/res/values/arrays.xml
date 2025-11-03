@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="machine_ids">
+        <item>전체</item>
+        <item>bcf1</item>
+        <item>bcf2</item>
+        <item>bcf3</item>
+        <item>bcf4</item>
+        <item>cm</item>
+        <item>cm2</item>
+    </string-array>
+</resources>

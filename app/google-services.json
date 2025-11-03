@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "636138827026",
+    "project_id": "mibo-test",
+    "storage_bucket": "mibo-test.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636138827026:android:d8f8142277d4205862d7cb",
+        "android_client_info": {
+          "package_name": "com.example.push_test1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfJjKPGGE3MqiBhwqpnnBVKpqc-UjzDkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EZ 모바일</string>
+    <string name="channel_name">My Channel</string>
+    <string name="channel_description">Channel for my app notifications</string>
+</resources>
